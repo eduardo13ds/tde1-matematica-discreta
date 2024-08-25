@@ -1,0 +1,13 @@
+4
+I
+Y, B, C, D, E
+F, G, H, I, J
+D
+A, B, C, D, E
+F, G, H, I, J
+U
+A, B, C, D, E
+F, G, H, I, J
+C
+A, B, C
+F, G, H
